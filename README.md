@@ -1,4 +1,4 @@
 Project SA
 my first project
 <br>
-auther-Salman (UOWD)
+auther-Salman Akram
